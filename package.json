@@ -15,7 +15,11 @@
     "type": "git",
     "url": "git+https://github.com/oprogramador/time-inspector.git"
   },
-  "keywords": ["time", "inspector", "stopwatch"],
+  "keywords": [
+    "time",
+    "inspector",
+    "stopwatch"
+  ],
   "author": "oprogramador",
   "license": "MIT",
   "bugs": {
