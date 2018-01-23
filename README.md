@@ -14,7 +14,7 @@ NodeJS time inspector allowing very easy detection of bottlenecks.
 
 ## usage
 ```
-const time = require('time-inspector');
+const time = require('time-inspector').default;
 
 time(); // for the first call it returns 0
 foo();
