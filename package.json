@@ -1,6 +1,6 @@
 {
   "name": "time-inspector",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "NodeJS time inspector",
   "main": "build/index.js",
   "scripts": {
